@@ -1,5 +1,5 @@
 ## Hi i'm Alim Nagoev 👋
-i'm Thomas from Denmark and i'm a Web Developer.
+i'm Alim from Nalchik and i'm a Web Developer.
 
 ### Skills & Experience
 
