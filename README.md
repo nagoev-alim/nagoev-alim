@@ -3,7 +3,7 @@ i'm Alim from Nalchik and i'm a Web Developer.
 
 ### Skills & Experience
 
-- :atom_symbol: React JS, TypeScript
+- :atom_symbol: React JS
 
 - :computer: HTML5, SCSS, CSS, SASS, LESS
 
