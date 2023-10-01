@@ -1,92 +1,66 @@
-<div style="text-align: center">
-<img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-yE0YuUkXUa3Nfm5W4BsXjsbNw60BkVUQQAtSz273aylJdvxDQOgYHkmtlCqFMHP1220RI-w9qQ_VLcDC2ieJOXT_Fazg=s2560">
+<div align="center">
+    <img src="gif.gif">
 </div>
 
-# <div align="center">Hey 👋 I'm Alim Nagoev</div>
+<h2 align="center">Hi 👋 My name is Alim Nagoev</h2>
 
+I am a frontend developer with experience in user interface development. I am passionate about creating user-friendly and understandable web resources. With my design experience, I bring a unique vision to my development work, always keeping the end user in mind.
+
+I am well versed in HTML, CSS, and JavaScript, which allows me to create dynamic and responsive interfaces. I enjoy collaborating with other designers and developers to bring complex projects to life.
+
+My main focus right now is frontend development. I strive to continuously improve my coding skills to create high-quality, visually appealing web applications that meet user expectations. I am competent in other people's code and understand how it works. My approach to writing code: don't cram everything
+in, clearly separate logic and execution stages.
+
+🌍 I am located in Russia
+
+✉️ You can contact me at **nagoev.tech@gmail.com**.
+
+⌛️ I'm learning Vue for fun and to train my mind
+
+🌐 I was engaged in development and support of such sites as:
+
+| Название           | <img width='30' src="https://skillicons.dev/icons?i=github" /> |
+|:-------------------|:---------------------------------------------------------------|
+| `KBR Government`   | [Live preview](https://kbr.ru/)                                |
+| `AxxonSoft`        | [Live preview](https://www.axxonsoft.com/)                     |
+| `ITV`              | [Live preview](https://www.itv.ru/)                            |
+| `Grundig-Security` | [Live preview](https://grundig-security.com/)                  |
+| `IPDrom`           | [Live preview](https://ipdrom.ru/)                             |
+| `Rubicon`          | [Live preview](https://www.rubicon.ru/)                        |
+| `Noder`            | [Live preview](https://noder.ru/)                              |
+| `Turaev`           | [Live preview](https://turaev.net/)                            |
+| ...others          | 
+
+
+<h2 align="center">📪 Contact with me</h2>
 <div align="center">
-<a href="https://github.com/nagoev-alim" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/nagoev__alim" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/nagoev" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nagoev-alim" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+    <a href="https://github.com/nagoev-alim" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github"/>
+    </a>
+    <a href="https://twitter.com/nagoev__alim" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter"/>
+    </a>
+    <a href="https://dev.to/nagoev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=devto"/>
+    </a>
+    <a href="https://linkedin.com/in/nagoev-alim" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>  
 </div>  
 
----
 
-### Glad to see you here!
-I am a Frontend developer from Russia. I have been developing and supporting websites and applications for 5 years. I have 4 years of commercial experience.
-I am competent in other people's code and understand how it works. My approach to writing code: don't cram everything in, clearly separate logic and execution stages.
-I was engaged in development and support of such sites as:
-- **[KBR Government](https://kbr.ru/)**
-- **[AxxonSoft](https://www.axxonsoft.com/)**
-- **[ITV](https://www.itv.ru/)**
-- **[Grundig-Security](https://grundig-security.com/)**
-- **[IPDrom](https://ipdrom.ru/)**
-- **[Rubicon](https://www.rubicon.ru/)**
-- **[Noder](https://noder.ru/)**
-- **[Turaev](https://turaev.net/)**
-- and others
+<h2 align="center">👨🏻‍💻 Languages and Tools</h2>
 
-
-<br/>  
-
-----
-
-## Languages and Tools
 <div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="25" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,express,pug,sass,tailwind,bootstrap,styledcomponents,emotion,typescript,react,redux,next,regex,php,wordpress,mongodb,md,atom,vscode,gulp,idea,vite,vercel,postman,bash,ps,xd,figma,github,git" />
 </div>  
 
-----
+  
+<h2 align="center">🚀 Github Stats</h2>
 
+![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagoev-alim&show_icons=true&theme=gruvbox)
 
-## Github Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nagoev-alim&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagoev-alim&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
- ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagoev-alim&layout=donut&theme=gruvbox)](https://github.com/nagoev-alim/github-readme-stats)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=nagoev-alim&&style=flat-square)
 
