@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋 My name is Alim Nagoev</h2>
 
-I am a frontend developer with experience in user interface development. I am passionate about creating user-friendly and understandable web resources. With my design experience, I bring a unique vision to my development work, always keeping the end user in mind.
+I am a frontend developer with experience in user interface development. I am passionate about creating user-friendly and understandable web resources.
 
 I am well versed in HTML, CSS, and JavaScript, which allows me to create dynamic and responsive interfaces. I enjoy collaborating with other designers and developers to bring complex projects to life.
 
