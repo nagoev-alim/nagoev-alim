@@ -22,7 +22,7 @@
 | ...others          | 
 
 
-<h2 align="center">📪 Contact with me</h2>
+<h2 align="center">📪 Связаться со мной</h2>
 <div align="center">
     <a href="https://github.com/nagoev-alim" target="_blank">
         <img src="https://skillicons.dev/icons?i=github"/>
