@@ -1,23 +1,13 @@
-<div align="center">
-    <img src="gif.gif">
-</div>
+<h2 align="center">Привет 👋 Меня зовут Алим</h2>
+Я фронтенд-разработчик с опытом в разработке пользовательских интерфейсов. Мне нравится создавать удобные и понятные веб-ресурсы.
 
-<h2 align="center">Hi 👋 My name is Alim Nagoev</h2>
+Я хорошо разбираюсь в HTML, CSS и JavaScript, что позволяет мне создавать динамичные и адаптивные интерфейсы. Мне нравится сотрудничать с другими дизайнерами и разработчиками, чтобы воплощать в жизнь сложные проекты.
 
-I am a frontend developer with experience in user interface development. I am passionate about creating user-friendly and understandable web resources.
+Моя основная специализация — фронтенд-разработка. Я стремлюсь постоянно совершенствовать свои навыки программирования, чтобы создавать высококачественные, визуально привлекательные веб-приложения, соответствующие ожиданиям пользователей. Я умею работать с чужим кодом и понимаю, как он функционирует. Мой подход к написанию кода: не пихать всё в одну кучу, чётко разделять логику и этапы выполнения.
 
-I am well versed in HTML, CSS, and JavaScript, which allows me to create dynamic and responsive interfaces. I enjoy collaborating with other designers and developers to bring complex projects to life.
+✉️ Вы можете связаться со мной по адресу **nagoev.mailbox@gmail.com**.
 
-My main focus right now is frontend development. I strive to continuously improve my coding skills to create high-quality, visually appealing web applications that meet user expectations. I am competent in other people's code and understand how it works. My approach to writing code: don't cram everything
-in, clearly separate logic and execution stages.
-
-🌍 I am located in Russia
-
-✉️ You can contact me at **nagoev.tech@gmail.com**.
-
-⌛️ I'm learning Vue for fun and to train my mind
-
-🌐 I was engaged in development and support of such sites as:
+🌐 Я занимался разработкой и поддержкой таких сайтов, как:
 
 | Название           | <img width='30' src="https://skillicons.dev/icons?i=github" /> |
 |:-------------------|:---------------------------------------------------------------|
@@ -49,14 +39,14 @@ in, clearly separate logic and execution stages.
 </div>  
 
 
-<h2 align="center">👨🏻‍💻 Languages and Tools</h2>
+<h2 align="center">👨🏻‍💻 Языки и инструменты</h2>
 
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,express,pug,sass,tailwind,bootstrap,styledcomponents,emotion,typescript,react,redux,next,regex,php,wordpress,mongodb,md,atom,vscode,gulp,idea,vite,vercel,postman,bash,ps,xd,figma,github,git" />
 </div>  
 
   
-<h2 align="center">🚀 Github Stats</h2>
+<h2 align="center">🚀 Статистика Github</h2>
 
 ![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagoev-alim&show_icons=true&theme=gruvbox)
 
